@@ -1,0 +1,11 @@
+{
+  "name": "codexdemo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "capture": "node video-demo/capture.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
